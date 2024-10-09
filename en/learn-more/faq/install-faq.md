@@ -167,7 +167,7 @@ cd dify/docker
 docker compose up -d
 ```
 
-### 15. Migrate vector database from weaviate to another vector database.
+### 17. Migrate vector database from weaviate to another vector database.
 
 If you want to migrate the vector database from weaviate to another vector database, you need to migrate the data in the vector database. The following is the migration method:
 
