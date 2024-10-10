@@ -167,7 +167,7 @@ cd dify/docker
 docker compose up -d
 ```
 
-### 17. 迁移Weaviate向量数据到其他向量数据库
+### 17. 迁移 Weaviate 向量数据到其他向量数据库
 
 如果您想将向量数据库从 Weaviate 迁移到 其他向量数据库，您需要迁移向量数据库中的数据。以下是迁移方法：
 
